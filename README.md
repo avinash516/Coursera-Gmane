@@ -46,7 +46,7 @@ running gmane.py.
 
 * Navigate to the folder where you extracted the gmane.zip
 
-#Note: 
+# Note: 
 Windows has difficulty in displaying UTF-8 characters
 in the console so for each console window you open, you may need
 to type the following command before running this code:
