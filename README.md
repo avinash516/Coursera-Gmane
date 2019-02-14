@@ -19,7 +19,7 @@ gmane.org server.
 You should install the SQLite browser to view and modify the databases from:
 
 http://sqlitebrowser.org/
-## Steps to Run
+# Steps to Run
 * The first step is to spider the gmane repository. 
 * The base URL 
 is hard-coded in the gmane.py and is hard-coded to the Sakai
@@ -213,7 +213,7 @@ Output written to gline.js
 
 Its output is written to gline.js which is visualized using gline.htm.
 
-##Some URLs for visualization ideas:
+# Some URLs for visualization ideas:
 
 https://developers.google.com/chart/
 
